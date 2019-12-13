@@ -1,0 +1,20 @@
+{
+  "name": "node-http",
+  "version": "0.0.1",
+  "description": "Basic HTTP server built with native Node.js http module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/node-http"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch"
+  ]
+}
